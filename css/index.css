@@ -1,0 +1,34 @@
+﻿@charset "utf-8";
+
+.writer small, .article-time small, .comments small {
+    font-size: 90%;
+}
+
+.word-main-color .badge {
+    vertical-align: bottom;
+}
+
+.muscle {
+    background: url(../images/index/muscle/muscle.jpg) no-repeat 0px 0px;
+    padding: 8% 0;
+    color: #fff;
+    background-size: cover;
+    text-align: center;
+}
+
+.index-blog-green {
+    padding: 2rem 1rem 1rem;
+}
+
+.taobao {
+    background-color: #F1EFEF;
+    margin-bottom: 0;
+    padding: 2rem 1rem;
+}
+
+.leave-comments {
+    background-color: #fff;
+    margin-bottom: 0;
+    padding: 2rem 1rem;
+}
+

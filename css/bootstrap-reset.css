@@ -1,0 +1,18 @@
+@charset "utf-8";
+.navbar {
+    padding: 0 1rem;
+}
+
+.active > .nav-link {
+    color: #34495e;
+    font-weight: 700;
+}
+
+.card {
+    border: none;
+    border-radius: 0;
+}
+
+.btn {
+    border-radius: 0;
+}

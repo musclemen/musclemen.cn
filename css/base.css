@@ -1,0 +1,91 @@
+﻿@charset "utf-8";
+body {
+    font-family: "Microsoft YaHei";
+    background: #F1EFEF;
+}
+
+/*.badge{*/
+/*font-weight: normal;*/
+/*}*/
+.twitter {
+    color: #4A90BE;
+}
+
+.twitter-bg {
+    background-color: #4A90BE;
+}
+
+.word-main-color {
+    color: #34495e;
+}
+
+.grey {
+    color: #c2c2c2
+}
+
+a {
+    color: #34495e;
+}
+
+a:hover {
+    text-decoration: none;
+    transition: 0.2s;
+    color: #55C3B6;
+}
+
+.box-shadow-bottom {
+    box-shadow: 2px 2px 6px 0px #aaa;
+}
+
+.card-shadow-bottom {
+    box-shadow: 6px 6px 8px 0px #aaa;
+}
+
+.bg-green {
+    background: #85cbc0;
+}
+
+.btn-green {
+    background: #55C3B6;
+    color: #fff;
+}
+
+.btn-white {
+    color: #55C3B6;
+    background-color: #fff;
+    border-color: #fff;
+}
+
+.btn-white:hover {
+    border-radius: .3rem;
+}
+
+.btn-green:hover {
+    background: #00c36f;
+    color: #fff;
+    border-radius: .3rem;
+}
+
+.btn-outline-white {
+    color: #fff;
+    background-color: transparent;
+    background-image: none;
+    border-color: #fff;
+}
+
+.btn-outline-white:hover {
+    color: #55C3B6;
+    background-color: #fff;
+    border-color: #fff;
+}
+
+.bg-darkblue {
+    background-color: #34495e;
+    color: #fff;
+}
+.cnzz{
+    display: inline-block;
+    margin-left: 10px;
+    vertical-align: text-bottom;
+
+}

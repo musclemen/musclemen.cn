@@ -1,0 +1,90 @@
+﻿@charset "utf-8";
+
+[class*=icon]::before {
+    font-family: "fontawesome";
+    margin-right: 5px;
+}
+
+[class*=icon-after]::after {
+    font-family: "fontawesome";
+    margin: 0 5px;
+}
+
+/*博客*/
+.icon-blog-index-title::before {
+    content: "\f14b";
+    font-size: 2rem;
+}
+
+.icon-writer::before {
+    content: "\f007";
+    font-size: 1rem;
+}
+
+.icon-article-time::before {
+    content: "\f073";
+    font-size: 1rem;
+}
+
+.icon-comments::before {
+    content: "\f003";
+    font-size: 1rem;
+}
+
+.icon-muscle::before {
+    content: "\f004";
+    font-size: 1.1rem;
+}
+
+.icon-shopping-cart::before {
+    content: "\f07a";
+}
+
+.icon-location::before {
+    content: "\f041";
+    font-size: 1rem;
+}
+
+.icon-reply::before {
+    content: "\f27a";
+    font-size: 1rem;
+}
+
+.icon-comment-time::before {
+    content: "\f017";
+    font-size: 1rem;
+}
+
+.icon-leave-comments::before {
+    content: "\f086";
+}
+
+[class*=btm]::before {
+    font-size: 1.6rem;
+    color: #e2e2e2;
+}
+
+.icon-weibo-btm::before {
+    content: "\f18a";
+
+}
+
+.icon-wechat-btm::before {
+    content: "\f1d7";
+
+}
+
+.icon-qq-btm::before {
+    content: "\f1d6";
+
+}
+
+.icon-email-btm::before {
+    content: "\f0e0";
+
+}
+
+.icon-github-btm::before {
+    content: "\f09b";
+
+}
